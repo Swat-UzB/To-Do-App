@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">To Do Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_add_button_desc">add button</string>
+    <string name="no_data">No data</string>
+    <string name="str_no_data_desc">no data image</string>
+    <string name="str_title">Title</string>
+    <string name="str_desc">Description</string>
+    <string name="str_search">Search</string>
+    <string name="sort_by">Sort By</string>
+    <string name="priority_high">Priority High</string>
+    <string name="priority_low">Priority Low</string>
+    <string name="str_delete_all">Delete All</string>
+    <string name="str_add">Add</string>
+    <string name="str_save">Save</string>
+    <string name="str_delete">Delete</string>
+    <string name="str_my_title">My title</string>
+    <string name="str_some_random_description">Some random description</string>
+    <string-array name="priorities">
+        <item>Low priority</item>
+        <item>Medium priority</item>
+        <item>High priority</item>
+    </string-array>
+</resources>
